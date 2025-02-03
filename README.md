@@ -14,64 +14,24 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
+
+  <<< Author notes: Step 5 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 3: Add a code example
 
-_Great job adding an image to the file :tada:_
+## Step 5: Merge your pull request
 
-Let's add some code blocks. Code blocks can render differently depending on the language.
+_Great job adding a task list to the file :heart:_
 
-### Example 1
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
-<pre>
-```
-$ git init 
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
- 
-```
-</pre>
+### :keyboard: Activity: Merge your pull request
 
-### My example
+1. Click **Merge pull request**.
 
-<pre>
-```
-$ git init 
-My comment
- 
-```
-</pre>
-
-#### How it looks
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-### Example 2
-
-<pre>
-``` javascript
-var myVar = "Hello, world!";
-```
-</pre>
-
-#### How it looks
-
-```javascript
-var myVar = "Hello, world!";
-```
-
-### :keyboard: Activity: Adding a code example
-
-1. As you did before, edit the file in this pull request.
-1. In the file, add the correct Markdown for a code example of your choice.
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit your changes.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
