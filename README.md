@@ -30,8 +30,9 @@ Let's add some code blocks. Code blocks can render differently depending on the 
 <pre>
 ```
 $ git init
+My comment   
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-My comment  
+ 
 ```
 </pre>
 
